@@ -23,3 +23,6 @@ print(response)
 
 response = chatbot.get_response("What is your name?")
 print(response)
+
+response = chatbot.get_response("Hi")
+print(response)
